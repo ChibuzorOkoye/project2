@@ -1,0 +1,110 @@
+
+.row
+{
+    color:black;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 4px, 4px, 0 black;
+    padding: 12px;
+}
+.row2
+{
+    color:black;
+    font-size: 50px;
+    text-align: left;
+    text-shadow: 4px, 4px, 0 black;
+    padding: 12px;
+}
+div.row{
+    background-color: lightblue;
+   align-self: center;
+}
+
+div h3, div h4{
+    font-size: 45px;
+    text-align: center;
+    color: whitesmoke;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: slateblue;
+    color: white;
+    text-align: center;
+ }
+ .button {
+    background-color: skyblue;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 675px;
+   justify-content: center;
+    cursor: pointer;
+  }
+
+.button2 {
+    background-color: skyblue;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+   justify-content: left;
+  }
+.btn.btn-primary.btn-sm{
+    background-color: skyblue;
+    color: whitesmoke;
+    padding: 10px 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+.image{
+    background-image: url("paint.jpg");
+}
+.diff{
+      color: black;
+    }
+  .left{
+    text-align: left;
+    color: honeydew;
+
+  }
+span,.price{
+      text-align: center;
+      color: black;
+      margin: 10px 500px;
+  }
+p{
+      text-align: center;
+      color: whitesmoke;
+  }
+.col-sm-3
+{
+background: midnightblue;
+}
+
+.col-sm-5
+{
+background: lightgray;
+display: flexbox;
+text-align: center;
+}
+.col-sm-4
+{
+background: lightgray;
+display: flexbox;
+text-align: center;
+}
+form{
+    display: flexbox;
+}
+
+.jumbotron.jumbotron-fluid
+{
+    border :10px solid midnightblue;
+    background-image: url("artistic.jpg");
+}
